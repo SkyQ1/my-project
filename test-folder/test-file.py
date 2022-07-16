@@ -1,1 +1,2 @@
-"Testing git from my memory" 
+a = input()
+print("your number is ", a)
